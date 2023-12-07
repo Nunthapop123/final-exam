@@ -3,3 +3,7 @@
 - Fork, then, clone this repo
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+
+
+What i have done
+- I've change the polygon_art in to oop style but it not working very well as it should :)
